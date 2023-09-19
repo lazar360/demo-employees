@@ -34,5 +34,4 @@ build/
 .vscode/
 
 ### other files ###
-src/main/resources/application.properties
 src/main/resources/secret.properties
